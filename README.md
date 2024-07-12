@@ -4,6 +4,7 @@
 In the wake of the unprecedented COVID-19 pandemic, the global employment landscape experienced seismic shifts. For employees, 
 these changes meant unfortunate workforce reductions.
 This project, "Covid-Layoffs: Data Cleaning and Analysis with MySQL," focuses on the pivotal role of data engineering in understanding the impact of COVID-19 on employment. 
+
 As a data engineer, one of my primary task is to transform raw data into a clean, structured format suitable for analysis. This involves meticulous data cleansing, aggregation, and enrichment which ensures that the data is reliable and ready for further exploration by data scientists and analysts.
 
 OBJECTIVES:
