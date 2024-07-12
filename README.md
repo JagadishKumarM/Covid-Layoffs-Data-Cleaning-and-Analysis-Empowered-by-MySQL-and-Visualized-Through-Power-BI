@@ -1,4 +1,4 @@
-**Covid-Layoffs: Data Cleaning and Analysis Empowered by MySQL and Visualized Through Power BI**
+## **Covid-Layoffs: Data Cleaning and Analysis Empowered by MySQL and Visualized Through Power BI**
 
 In the wake of the unprecedented COVID-19 pandemic, the global employment landscape experienced seismic shifts. For employees, 
 these changes meant unfortunate workforce reductions.
@@ -16,3 +16,6 @@ OBJECTIVES:
 
 We will achieve these objectives using MySQL, demonstrating the essential data engineering skills and tasks needed to transform raw data into a reliable and insightful dataset. 
 This process ensures the data is ready for analysis by data scientists and analysts!
+
+Check out my detailed article on this project:
+**https://medium.com/@mjkjagadishkumarofficial/covid-layoffs-data-cleaning-and-analysis-empowered-by-mysql-and-visualized-through-power-bi-abbc69a87b2f**
