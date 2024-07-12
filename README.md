@@ -1,4 +1,5 @@
-## **Covid-Layoffs: Data Cleaning and Analysis Empowered by MySQL and Visualized Through Power BI**
+## **Covid-Layoffs:**
+## **Data Cleaning and Analysis Empowered by MySQL and Visualized Through Power BI**
 
 In the wake of the unprecedented COVID-19 pandemic, the global employment landscape experienced seismic shifts. For employees, 
 these changes meant unfortunate workforce reductions.
