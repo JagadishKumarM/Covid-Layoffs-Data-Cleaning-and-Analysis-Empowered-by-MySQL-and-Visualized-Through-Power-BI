@@ -1,5 +1,4 @@
-
--- STEP 1--> CREATE AND ORGANIZE DATABASE
+/* -----------------------------------------------------STEP 1--> CREATE AND ORGANIZE DATABASE ------------------------------------------------------ */
 
 CREATE DATABASE layoffs;
 USE layoffs;
@@ -28,7 +27,7 @@ SELECT * FROM layoff;
 DESCRIBE layoff_copy;
 
 
-/* STEP 2---> REMOVING THE DUPLICATES */
+/*  ------------------------------------------------------STEP 2---> REMOVING THE DUPLICATES ------------------------------------------------------ */
 
 /* Figure out the DUPLICATES  */
 /* Note: We have quoted the date column as `date` as date is a keyword in MySql */
@@ -109,7 +108,7 @@ SELECT *
 FROM layoff_copy2;
 
 
-/* STEP3----> DATA ENRICHMENT VIA STANDARDIZING DATA: */
+/*  ------------------------------------------------------ STEP3----> DATA ENRICHMENT VIA STANDARDIZING DATA ------------------------------------------------------ */
 
 /* REMOVING any Leading or Trailing spaces for the columns required */
 
@@ -179,7 +178,7 @@ MODIFY COLUMN `date` DATE;
 DESC layoff_copy2;
 
 
-/* STEP 4--> NULL VALUE HANDLING AND REMOVAL OF UNNECESSARY COLUMNS AND ROWS: Trying to POPULATE the NULL Values if Possible-(Eg: Analyzing industry)  */
+/*  -------------------------------STEP 4--> NULL VALUE HANDLING AND REMOVAL OF UNNECESSARY COLUMNS AND ROWS: Trying to POPULATE the NULL Values if Possible-(Eg: Analyzing industry) ---------------------------  */
 
 SELECT * 
 FROM layoff_copy2
