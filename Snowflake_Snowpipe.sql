@@ -1,3 +1,15 @@
+
+/* 
+----------------------------------------------------------------------------------------------------------------------
+Kindly go through my article on how to load data from AWS S3 into Snowflake.
+Here’s the link for the article,
+https://medium.com/@mjkjagadishkumarofficial/snowpipe-automated-data-loading-aws-to-snowflake-in-10-steps-2650149894c6 
+
+----------------------------------------------------------------------------------------------------------------------
+*/
+
+-- Below are the SQL queries used for the integration of AWS S3 and Snowflake 
+
 -- Creating a new database named Dataingestion
 CREATE DATABASE Dataingestion;
 
