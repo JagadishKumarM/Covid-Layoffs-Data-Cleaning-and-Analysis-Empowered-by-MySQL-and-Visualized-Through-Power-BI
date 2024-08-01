@@ -1,5 +1,5 @@
 ## **COVID Layoffs End-to-End Data Handling & Analysis: 
-MySQL Cleanup, Power BI Visualization, AWS-Snowflake Integration**
+##** MySQL Cleanup, Power BI Visualization, AWS-Snowflake Integration**##
 
 In the wake of the unprecedented COVID-19 pandemic, the global employment landscape experienced seismic shifts. For employees, 
 these changes meant unfortunate workforce reductions.
